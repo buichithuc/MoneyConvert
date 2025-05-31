@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         "Japan - Yen" to 150.06,
         "India - Rupee" to 85.56
 
-
+// hello commit
     )
     @SuppressLint("MissingInflatedId", "SetTextI18n")
     override fun onCreate(savedInstanceState: Bundle?) {
